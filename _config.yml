@@ -73,17 +73,17 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               : "google-universal" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
 
 # Site Author
 author:
-  name             : R. Taylor Raborn
+  name             : "R. Taylor Raborn"
   avatar           : "RTR_headshot.png"
-  bio              : Research Scientist in Genomics at the Biodesign Institute
-  location         : Tempe, Arizona
+  bio              : "Research Scientist in Genomics at the Biodesign Institute"
+  location         : "Tempe, Arizona"
   employer         : "Arizona State University"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=lN22x1EAAAAJ&hl=en"
@@ -91,10 +91,8 @@ author:
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   github           : "github.com/rtraborn"
   keybase          :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-   linkedin         : "taylorraborn"
+  linkedin         : "taylorraborn"
   orcid            : "https://orcid.org/0000-0001-6249-8033"
-   stackoverflow    : # http://stackoverflow.com/users/123456/username
   twitter          : "rtraborn"
 
 
