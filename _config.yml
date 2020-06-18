@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Taylor Raborn"
+  name             : R. Taylor Raborn
   avatar           : "RTR_headshot.png"
-  bio              : "Research Scientist in Genomics at the Biodesign Institute"
-  location         : "Tempe, Arizona"
+  bio              : Research Scientist in Genomics at the Biodesign Institute
+  location         : Tempe, Arizona
   employer         : "Arizona State University"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=lN22x1EAAAAJ&hl=en"
