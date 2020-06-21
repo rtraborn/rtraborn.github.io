@@ -18,3 +18,10 @@ My work in principally focused on *cis*-regulatory regions in eukaryotic genomes
 - *Cis*-regulatory sequence differences in populations, using the model system *Daphnia pulex*.
 - Modeling the shape properties of promoters across eukaryotes. 
 
+### STRIPE-seq: a novel TSS profiling method
+I was also recently involved in the development of a new transcription start site (TSS) profiling method, STRIPE-seq. STRIPE-seq (Survey of TRanscription Initiation at Promoter Elements) is a straightforward and efficient method for identifying promoters from small quantities (~100ng and below) of input RNA. The STRIPE-seq preprint can be found [here](https://www.biorxiv.org/content/10.1101/2020.01.16.905182v1); at present the manuscript is in the latter stages of peer review.
+
+### Development of bioinformatics software for analysis of TSS profiling data
+To facilitate the analysis of STRIPE-seq and other forms of TSS profiling data, I have authored or contributed to bioinformatics software.
+This includes TSRchitect, an R Bioconductor package that identifies and provides quantitative information on promoters using aligned TSS profiling data.
+TSRchitect is available [here](https://www.bioconductor.org/packages/release/bioc/html/TSRchitect.html), and includes a vignette and user's guide. 
