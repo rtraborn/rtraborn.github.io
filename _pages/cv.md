@@ -11,12 +11,12 @@ redirect_from:
 
 Education
 ======
-* B.Sc (Hons), Life Sciences, Queen's University, 2004
-* Ph.D in Biology, University of Iowa, 2013 (with John Logsdon)
+* B.Sc (Honours), Life Sciences, [Queen's University](https://queensu.ca), 2004
+* Ph.D in Biology, [University of Iowa](https://uiowa.edu), 2013 (with John Logsdon)
 
 Postdoctoral
 ======
-* Postdoctoral Fellowship, Indiana University Bloomington. 2013-2018 (with Volker Brendel)
+* Postdoctoral Fellowship, [Indiana University Bloomington](https://www.indiana.edu/). 2013-2018 (with Volker Brendel)
 
 Current Position
 =====
