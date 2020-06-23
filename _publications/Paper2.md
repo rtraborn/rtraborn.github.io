@@ -9,4 +9,4 @@ citation: 'Ye, Zhiqiang, <i>et al<\i>. (2017). &quot;A New Reference Genome Asse
 ---
 [Download paper here](https://www.g3journal.org/content/ggg/7/5/1405.full.pdf)
 
-Recommended citation: Ye, Zhiqiang <i>et al<\i>. (2017). "A New Reference Genome Assembly for the Microcrustacean <i>Daphnia pulex<\i." <i>G3: Genes, Genomes, Genetics</i>. v. 7, 1405-1416.
+Recommended citation: Ye, Zhiqiang <i>et al<\i>. (2017). "A New Reference Genome Assembly for the Microcrustacean <i>Daphnia pulex<\i>." <i>G3: Genes, Genomes, Genetics</i>. v. 7, 1405-1416.
