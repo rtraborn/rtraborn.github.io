@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Research Scientist in Mike Lynch's lab in the [Biodesign Institute](https://biodesign.asu.edu/) [Center for Mechanisms of Evolution](https://biodesign.asu.edu/research/centers/mechanisms-evolution#:~:text=The%20Biodesign%20Center%20for%20Mechanisms,the%20building%20blocks%20of%20cells.&text=In%20essence%2C%20we%20are%20aiming,field%20called%20evolutionary%20cell%20biology.).
+I am an Research Scientist in Mike Lynch's lab in the [Biodesign Institute](https://biodesign.asu.edu/) [Center for Mechanisms of Evolution](https://biodesign.asu.edu/research/centers/mechanisms-evolution#:~:text=The%20Biodesign%20Center%20for%20Mechanisms,the%20building%20blocks%20of%20cells.&text=In%20essence%2C%20we%20are%20aiming,field%20called%20evolutionary%20cell%20biology.) at Arizona State University.
 
 ## About my research
 
