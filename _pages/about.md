@@ -12,14 +12,14 @@ I am an Research Scientist in Mike Lynch's lab in the [Biodesign Institute](http
 
 ## About my research
 
-My work in principally focused on *cis*-regulatory regions in eukaryotic genomes, particularly promoter architecture and evolution. I am currently working on several projects in this area, which include:
+My work is principally focused on *cis*-regulatory regions in eukaryotic genomes, particularly promoter architecture and evolution. I am currently working on several projects in this area, which include:
 
 - Promoter evolution after whole-genome duplication, using the *Paramecium aurelia* species complex).
 - *Cis*-regulatory sequence differences in populations, using the model system *Daphnia pulex*.
 - Modeling the shape properties of promoters across eukaryotes. 
 
 ### STRIPE-seq: a novel TSS profiling method
-I was also recently involved in the development of a new transcription start site (TSS) profiling method, STRIPE-seq. STRIPE-seq (Survey of TRanscription Initiation at Promoter Elements) is a straightforward and efficient method for identifying promoters from small quantities (~100ng and below) of input RNA. The STRIPE-seq preprint can be found [here](https://www.biorxiv.org/content/10.1101/2020.01.16.905182v1); at present the manuscript is in the latter stages of peer review.
+I was also recently involved in the development of a new transcription start site (TSS) profiling method, STRIPE-seq. STRIPE-seq (Survey of TRanscription Initiation at Promoter Elements) is a straightforward and efficient method for identifying promoters from small quantities (~100ng and below) of input RNA. The STRIPE-seq preprint can be found [here](https://www.biorxiv.org/content/10.1101/2020.01.16.905182v1); at present the manuscript is in the latter stages of peer review. Update: the STRIPE-seq paper was just published in *Genome Research*, and can be found [here](https://genome.cshlp.org/content/early/2020/07/02/gr.261545.120.abstract).
 
 ### Development of bioinformatics software for analysis of TSS profiling data
 To facilitate the analysis of STRIPE-seq and other forms of TSS profiling data, I have authored or contributed to bioinformatics software.
